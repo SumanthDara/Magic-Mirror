@@ -1,6 +1,6 @@
 package magicmirror.app;
 
-//a ton of libraries
+//a ton of libraries!
 import android.os.Bundle;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
